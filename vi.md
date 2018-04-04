@@ -134,7 +134,7 @@ Sử dụng các câu lệnh được chuẩn bị cũng sẽ cho bạn thống 
 
 Các câu lệnh được chuẩn bị cũng bảo vệ bạn tốt hơn với cách tấn công SQL injection
 
-**9. Không chuẩn hóa đủ**
+**9. Không chuẩn hóa đủ** 
 
 [Chuẩn hóa cơ sở dữ liệu](http://en.wikipedia.org/wiki/Database_normalization) về cơ bản là quá trình tối ưu thiết kế cơ sở dữ liệu hoặc là cách bạn tổ chức dữ liệu của bạn thành các bảng.
 
